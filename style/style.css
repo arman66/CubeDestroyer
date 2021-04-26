@@ -1,3 +1,21 @@
 canvas {
   border: 1px solid black;
 }
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
+.black {
+  color: black;
+}
+.orange {
+  color: orange;
+}
